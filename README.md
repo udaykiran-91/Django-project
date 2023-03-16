@@ -1,4 +1,4 @@
-# Django-project
+# Study Buddy
 App Preview :
  
 Feed Home
@@ -7,3 +7,4 @@ Feed Home
 	
 Room Conversation Preview
 
+![3](https://user-images.githubusercontent.com/127354822/225728064-77b36e1e-5ec0-43ad-b7f8-1fa6c0bdaeab.jpg)
